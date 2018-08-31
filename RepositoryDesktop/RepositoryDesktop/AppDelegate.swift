@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  RepositoryDesktop
-//
-//  Created by MacOS on 31.08.18.
-//  Copyright © 2018 MacOS. All rights reserved.
-//
+//commit2 desktop
 
 import UIKit
 
